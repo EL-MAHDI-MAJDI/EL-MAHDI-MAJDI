@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm EL MAHDI MAJDI</h1>
 <h3 align="center">
-	🎓 Bachelor’s Degree in Computer Engineering – Faculty of Science and Technology, Fès  
+	🎓 Bachelor’s Degree in Computer Engineering
+</h3>
+<h3 align="center">
 	💻 Passionate about programming, web development, cybersecurity, and data analysis.  
+</h3>
+<h3 align="center">
 	🌍 Based in Morocco | Open to internships and collaborative projects  
 </h3>
 
