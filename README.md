@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm EL MAHDI MAJDI</h1>
-<h3 align="center">A passionate computer science student and aspiring full-stack developer from Morocco</h3>
+<h3 align="center">
+	🎓 Bachelor’s Degree in Computer Engineering – Faculty of Science and Technology, Fès  
+	💻 Passionate about programming, web development, cybersecurity, and data analysis.  
+	🌍 Based in Morocco | Open to internships and collaborative projects  
+</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=el-mahdi-majdi&label=Profile%20views&color=0e75b6&style=flat" alt="el-mahdi-majdi" />
