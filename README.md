@@ -3,7 +3,7 @@
 	🎓 Bachelor’s Degree in Computer Engineering
 </h3>
 <h3 align="center">
-	💻 Passionate about programming, web development, cybersecurity, and data analysis.  
+	💻 Passionate about programming, web development, cybersecurity and data   
 </h3>
 <h3 align="center">
 	🌍 Based in Morocco | Open to internships and collaborative projects  
